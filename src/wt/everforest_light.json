@@ -1,0 +1,23 @@
+{
+    "name": "everforest_light",
+    "background": "#fdf6e3",
+    "foreground": "#5c6a72",
+    "cursorColor": "#5c6a72",
+    "black": "#5c6a72",
+    "blue": "#3a94c5",
+    "brightBlack": "#5c6a72",
+    "brightBlue": "#3a94c5",
+    "brightCyan": "#35a77c",
+    "brightGreen": "#8da101",
+    "brightPurple": "#df69ba",
+    "brightRed": "#f85552",
+    "brightWhite": "#f4f0d9",
+    "brightYellow": "#dfa000",
+    "cyan": "#35a77c",
+    "green": "#8da101",
+    "purple": "#df69ba",
+    "red": "#f85552",
+    "white": "#939f91",
+    "yellow": "#dfa000",
+    "selectionBackground": "#e6e2cc"
+}
